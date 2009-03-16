@@ -22,15 +22,14 @@
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="1002" scrollPosition="0|0" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="217" scrollPosition="0|0" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Crypto.cs" caret="0" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/d:Properties/f:Resources.Designer.cs" caret="1382" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/d:Properties/f:Settings.Designer.cs" caret="1098" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:App.xaml.cs" caret="172" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:App.xaml" caret="281" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml.cs" caret="401" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml" caret="0" scrollPosition="0|0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="260" scrollPosition="0|0" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="587" scrollPosition="74|0" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="1307" scrollPosition="0|12" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="425" scrollPosition="0|0" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="3488" scrollPosition="0|98" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4246" scrollPosition="0|112" />
-      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="3402" scrollPosition="0|94" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="1638" scrollPosition="0|40" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4075" scrollPosition="0|110" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="474" scrollPosition="0|12" />
@@ -54,6 +53,13 @@
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Crypto.cs" caret="0" scrollPosition="0|9" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="217" scrollPosition="0|0" />
       <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="1002" scrollPosition="0|26" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml" caret="213" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml.cs" caret="518" scrollPosition="0|12" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml" caret="476" scrollPosition="0|1" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml.cs" caret="395" scrollPosition="0|3" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:wndMain.xaml" caret="35" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:App.xaml.cs" caret="172" scrollPosition="0|0" />
+      <File id="112A3BEA-7AF6-42B9-B162-64CE8FE51FF1/f:App.xaml" caret="40" scrollPosition="0|0" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>

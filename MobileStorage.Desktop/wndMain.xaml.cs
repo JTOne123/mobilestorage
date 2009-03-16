@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MobileStorage.Desctop
+namespace MobileStorage.Desktop
 {
     /// <summary>
     /// Interaction logic for Window1.xaml
@@ -22,6 +22,11 @@ namespace MobileStorage.Desctop
         public wndMain()
         {
             InitializeComponent();
+        }
+
+        private void mnuFile_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
