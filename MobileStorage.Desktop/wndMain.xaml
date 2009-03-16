@@ -1,0 +1,17 @@
+﻿<Window x:Class="MobileStorage.Desctop.wndMain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MobileStorage Desktop" Height="237" Width="439">
+    <Grid>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,22,20" Name="button1" VerticalAlignment="Bottom" Width="75">Button</Button>
+        <Menu Name="menu1" Height="21" VerticalAlignment="Top">
+            <MenuItem Header="File" Name="mnuFile">
+                <MenuItem Header="Open storage" />
+                <MenuItem Header="Save storage" />
+                <MenuItem Header="New value" />
+                <MenuItem Header="About" />
+                <MenuItem Header="Donate" />
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>
