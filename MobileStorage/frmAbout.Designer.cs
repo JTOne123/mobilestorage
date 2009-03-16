@@ -29,6 +29,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAbout));
             this.mainMenu1 = new System.Windows.Forms.MainMenu();
             this.menuItem1 = new System.Windows.Forms.MenuItem();
             this.miDonate = new System.Windows.Forms.MenuItem();
@@ -36,6 +37,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.lbkOffSite = new System.Windows.Forms.LinkLabel();
             this.cmdDonamte = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.SuspendLayout();
             // 
             // mainMenu1
@@ -85,12 +87,20 @@
             this.cmdDonamte.Text = "Donate $1";
             this.cmdDonamte.Click += new System.EventHandler(this.cmdDonamte_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(175, 34);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(19, 16);
+            // 
             // frmAbout
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(240, 268);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.cmdDonamte);
             this.Controls.Add(this.lbkOffSite);
             this.Controls.Add(this.label2);
@@ -110,5 +120,6 @@
         private System.Windows.Forms.MenuItem menuItem1;
         private System.Windows.Forms.MenuItem miDonate;
         private System.Windows.Forms.Button cmdDonamte;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
