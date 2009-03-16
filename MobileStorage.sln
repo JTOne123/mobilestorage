@@ -1,7 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileStorage", "MobileStorage\MobileStorage.csproj", "{40AEAE15-0C7D-499F-8838-009995447D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileStorage.Desktop", "MobileStorage.Desktop\MobileStorage.Desktop.csproj", "{112A3BEA-7AF6-42B9-B162-64CE8FE51FF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{40AEAE15-0C7D-499F-8838-009995447D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40AEAE15-0C7D-499F-8838-009995447D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{40AEAE15-0C7D-499F-8838-009995447D0D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{112A3BEA-7AF6-42B9-B162-64CE8FE51FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112A3BEA-7AF6-42B9-B162-64CE8FE51FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112A3BEA-7AF6-42B9-B162-64CE8FE51FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112A3BEA-7AF6-42B9-B162-64CE8FE51FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
