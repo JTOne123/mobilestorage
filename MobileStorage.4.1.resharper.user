@@ -1,0 +1,216 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAddItem.cs" caret="451" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:StorageItems.cs" caret="0" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:XMLSerialize.cs" caret="284" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="863" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="5210" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="1002" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="217" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Crypto.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="260" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="587" scrollPosition="74|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="1307" scrollPosition="0|12" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="425" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="3488" scrollPosition="0|98" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4246" scrollPosition="0|112" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="3402" scrollPosition="0|94" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="1638" scrollPosition="0|40" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4075" scrollPosition="0|110" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="474" scrollPosition="0|12" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="2387" scrollPosition="0|63" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Crypto.cs" caret="906" scrollPosition="0|11" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="1251" scrollPosition="0|17" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="1137" scrollPosition="0|22" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="2862" scrollPosition="0|72" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="1189" scrollPosition="0|12" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Convertor.cs" caret="1252" scrollPosition="0|18" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="1366" scrollPosition="0|34" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="3820" scrollPosition="0|115" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4460" scrollPosition="0|125" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="4730" scrollPosition="0|128" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="536" scrollPosition="0|6" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="642" scrollPosition="0|11" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="885" scrollPosition="0|20" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="5037" scrollPosition="0|149" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmMain.cs" caret="5210" scrollPosition="0|155" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="876" scrollPosition="0|32" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/d:Business/f:Crypto.cs" caret="0" scrollPosition="0|9" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmPassword.cs" caret="217" scrollPosition="0|0" />
+      <File id="40AEAE15-0C7D-499F-8838-009995447D0D/f:frmAbout.cs" caret="1002" scrollPosition="0|26" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Application" priority="0" />
+      <Item value="dataGrid1" priority="4" />
+      <Item value="xmlDoc" priority="0" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="string" priority="13" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="List" priority="3" />
+      <Item value="Item" priority="1" />
+      <Item value="new" priority="12" />
+      <Item value="public" priority="4" />
+      <Item value="Key" priority="0" />
+      <Item value="pKey" priority="0" />
+      <Item value="pValue" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="pDescription" priority="0" />
+      <Item value="StorageItems" priority="5" />
+      <Item value="List&lt;StorageItems&gt;" priority="2" />
+      <Item value="siList" priority="4" />
+      <Item value="characters" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="XmlSerializer" priority="0" />
+      <Item value="saveFileDialog1" priority="1" />
+      <Item value="if" priority="7" />
+      <Item value="this" priority="5" />
+      <Item value="AddItem" priority="1" />
+      <Item value="frmAddItem" priority="1" />
+      <Item value="return" priority="3" />
+      <Item value="else" priority="4" />
+      <Item value="null" priority="7" />
+      <Item value="Business" priority="4" />
+      <Item value="static" priority="1" />
+      <Item value="Rijndael" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="sa" priority="2" />
+      <Item value="byte" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="void" priority="2" />
+      <Item value="XMLSerialize" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="siReturnValue" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="Password" priority="4" />
+      <Item value="Convertor" priority="1" />
+      <Item value="txtPassword" priority="3" />
+      <Item value="frmPassword" priority="3" />
+      <Item value="frmPass" priority="2" />
+      <Item value="MessageBox" priority="1" />
+      <Item value="GetScaledBounds" priority="1" />
+      <Item value="txtRePassword" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="lblError" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="lblRePassword" priority="0" />
+      <Item value="SaveFile" priority="0" />
+      <Item value="frmAbout" priority="1" />
+      <Item value="frmAb" priority="0" />
+      <Item value="frmDonate" priority="2" />
+      <Item value="frmDon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGrid">
+      <Item value="DataSource" priority="1" />
+      <Item value="Refresh" priority="1" />
+      <Item value="Update" priority="0" />
+      <Item value="CurrentRowIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.UTF8Encoding">
+      <Item value="GetString" priority="1" />
+      <Item value="GetChars" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="Filter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobileStorage.AddItem">
+      <Item value="Close" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="txtKey" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="6" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobileStorage.StorageItems">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="1" />
+      <Item value="Description" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MobileStorage.Business">
+      <Item value="Encrypt" priority="1" />
+      <Item value="Decrypt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.SymmetricAlgorithm">
+      <Item value="IV" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MobileStorage.Business.Crypto">
+      <Item value="Encrypt" priority="0" />
+      <Item value="Decrypt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobileStorage.frmPassword">
+      <Item value="Close" priority="1" />
+      <Item value="ShowDialog" priority="3" />
+      <Item value="GetPassword" priority="1" />
+      <Item value="Password" priority="1" />
+      <Item value="ShowDialogWithRePassword" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MobileStorage.Business.Convertor">
+      <Item value="EncryptList" priority="0" />
+      <Item value="DecryptList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobileStorage.frmAbout">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobileStorage.frmDonate">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
