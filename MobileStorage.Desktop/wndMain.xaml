@@ -11,7 +11,7 @@
             <MenuItem Header="File" Name="mnuFile">
                 <MenuItem Header="Open storage" Click="mnuOpenStorage_Click"/>
                 <MenuItem Header="Save storage" />
-                <MenuItem Header="New value" />
+                <MenuItem Header="New item" Click="mnuAddItem_Click"/>
                 <MenuItem Header="About" />
                 <MenuItem Header="Donate" />
             </MenuItem>

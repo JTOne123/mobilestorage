@@ -17,18 +17,31 @@ namespace MobileStorage.Desktop
     /// Interaction logic for wndPassword.xaml
     /// </summary>
     public partial class wndPassword : Window
-    {
-
-        public string Password { get; set; }
-
+    {        
         public wndPassword()
         {
             InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
+        {   
+            if(string.IsNullOrEmpty(pwdBox.Password))
+            {
+                MessageBox.Show("Please enter password");
+                return;                
+            }
+
+            this.Close();
+        }
+
+        public string GetPassword()
         {
-            Password = pwdBox.Password;
+            this.ShowDialog();
+            return pwdBox.Password;            
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
             this.Close();
         }
     }

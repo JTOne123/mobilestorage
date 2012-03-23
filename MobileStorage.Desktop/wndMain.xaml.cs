@@ -20,6 +20,31 @@ namespace MobileStorage.Desktop
     /// </summary>
     public partial class wndMain : Window
     {
+        private string _Filename = null;
+        public string FileName
+        {
+            get
+            {
+                if (_Filename == null)
+                {
+                    OpenFileDialog openFileDialog = new OpenFileDialog();
+
+                    openFileDialog.InitialDirectory = "c:\\";
+                    openFileDialog.Filter = "xml files (*.xml)|*.*";
+                    openFileDialog.RestoreDirectory = true;
+                    openFileDialog.ShowDialog();
+
+                    _Filename = openFileDialog.FileName;
+                }
+
+                return _Filename;
+            }
+            set
+            {
+                _Filename = value;
+            }
+        }
+
         public wndMain()
         {
             InitializeComponent();
@@ -27,27 +52,8 @@ namespace MobileStorage.Desktop
 
         private void mnuOpenStorage_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
-
-            openFileDialog.InitialDirectory = "c:\\";
-            openFileDialog.Filter = "xml files (*.xml)|*.*";
-            openFileDialog.RestoreDirectory = true;
-            openFileDialog.ShowDialog();
-
-            var filename = openFileDialog.FileName;
-
-            if (filename != string.Empty)
-            {
-                wndPassword wndPwd = new wndPassword();
-                wndPwd.ShowDialog();
-
-                var password = wndPwd.Password;
-
-                if (password != string.Empty)
-                {
-                    lvGrid.ItemsSource = Business.Convertor.DecryptList(Business.XMLSerialize.DeserializeFromXML(filename), password);
-                }
-            }
+            FileName = null;
+            DataBind();
         }
 
         private void lvGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -55,5 +61,24 @@ namespace MobileStorage.Desktop
             MessageBox.Show(((MobileStorage.StorageItems)(((object[])(e.AddedItems))[0])).Value);
         }
 
+        private void mnuAddItem_Click(object sender, RoutedEventArgs e)
+        {
+            wndAddItem wndAddItm = new wndAddItem(FileName);
+            wndAddItm.ShowDialog();
+            DataBind();
+        }
+
+        private void DataBind()
+        {
+            if (FileName != string.Empty)
+            {
+                var pwd = (new wndPassword()).GetPassword();
+
+                if (pwd == null)
+                    return;
+
+                lvGrid.ItemsSource = Business.Convertor.DecryptList(Business.XMLSerialize.DeserializeFromXML(FileName), pwd);
+            }
+        }
     }
 }
